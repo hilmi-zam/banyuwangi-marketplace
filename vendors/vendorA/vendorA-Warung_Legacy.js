@@ -23,7 +23,48 @@ const vendorAData = [
     nm_brg: "Keripik Pisang",
     hrg: "10000",
     ket_stok: "ada"
-  }
+  },
+  {
+    kd_produk: "A004",
+    nm_brg: "Sambal Pecel 200g",
+    hrg: "18000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A005",
+    nm_brg: "Brem Khas Banyuwangi",
+    hrg: "22000",
+    ket_stok: "habis"
+  },
+  {
+    kd_produk: "A006",
+    nm_brg: "Tape Manis 500g",
+    hrg: "17000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A007",
+    nm_brg: "Kue Ladrang",
+    hrg: "13000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A008",
+    nm_brg: "Kerupuk Udang",
+    hrg: "14000",
+    ket_stok: "habis"
+  },
+  {
+    kd_produk: "A009",
+    nm_brg: "Sari Jahe Instan",
+    hrg: "16000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A010",
+    nm_brg: "Kopi Lanang",
+    hrg: "25000",
+    ket_stok: "ada"
+  },
 ];
-
 module.exports = vendorAData;
