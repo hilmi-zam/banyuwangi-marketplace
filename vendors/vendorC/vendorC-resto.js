@@ -87,6 +87,18 @@ const restoData = [
       tax: 2200
     },
     stock: 35
+  },
+  {
+    id: 508,
+    details: {
+      name: "Es Cendol Kelapa",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 10000,
+      tax: 1000
+    },
+    stock: 80
   }
 ];
 
