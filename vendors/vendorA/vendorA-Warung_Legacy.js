@@ -101,6 +101,12 @@ const vendorAData = [
     nm_brg: "Rengginang",
     hrg: "11000",
     ket_stok: "ada"
+  },
+  {
+    kd_produk: "A017",
+    nm_brg: "Popcorn Gurih-manis",
+    hrg: "11000",
+    ket_stok: "habis"
   }
 ];
 module.exports = vendorAData;
