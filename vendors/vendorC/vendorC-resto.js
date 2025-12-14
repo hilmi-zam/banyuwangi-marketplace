@@ -63,6 +63,18 @@ const restoData = [
       tax: 1800
     },
     stock: 40
+  },
+  {
+    id: 506,
+    details: {
+      name: "Tahu Goreng Crispy",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 14000,
+      tax: 1400
+    },
+    stock: 70
   }
 ];
 
