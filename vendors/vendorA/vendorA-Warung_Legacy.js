@@ -109,9 +109,15 @@ const vendorAData = [
     ket_stok: "habis"
   },
   {
-    kd_produk: "A017",
+    kd_produk: "A018",
     nm_brg: "Ketan Kirip",
     hrg: "7000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A019",
+    nm_brg: "Ghtuk Lindry",
+    hrg: "8000",
     ket_stok: "ada"
   }
 ];
