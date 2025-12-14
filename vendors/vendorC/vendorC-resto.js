@@ -27,6 +27,18 @@ const restoData = [
       tax: 2500
     },
     stock: 45
+  },
+  {
+    id: 503,
+    details: {
+      name: "Lumpia Goreng",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 15000,
+      tax: 1500
+    },
+    stock: 60
   }
 ];
 
