@@ -75,6 +75,18 @@ const restoData = [
       tax: 1400
     },
     stock: 70
+  },
+  {
+    id: 507,
+    details: {
+      name: "Bakso Kuah Spesial",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 22000,
+      tax: 2200
+    },
+    stock: 35
   }
 ];
 
