@@ -137,6 +137,18 @@ const vendorAData = [
     nm_brg: "Pecel Pitek",
     hrg: "25000",
     ket_stok: "habis"
+  },
+  {
+    kd_produk: "A023",
+    nm_brg: "Bagiak",
+    hrg: "13000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A024",
+    nm_brg: "Botok Tawon",
+    hrg: "16000",
+    ket_stok: "ada"
   }
 ];
 module.exports = vendorAData;
