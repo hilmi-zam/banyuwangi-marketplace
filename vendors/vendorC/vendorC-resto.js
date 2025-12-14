@@ -39,6 +39,18 @@ const restoData = [
       tax: 1500
     },
     stock: 60
+  },
+  {
+    id: 504,
+    details: {
+      name: "Perkedel Kentang",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 12000,
+      tax: 1200
+    },
+    stock: 55
   }
 ];
 
