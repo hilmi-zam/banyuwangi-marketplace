@@ -111,6 +111,18 @@ const restoData = [
       tax: 1600
     },
     stock: 42
+  },
+  {
+    id: 510,
+    details: {
+      name: "Jus Buah Segar",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 12000,
+      tax: 1200
+    },
+    stock: 65
   }
 ];
 
