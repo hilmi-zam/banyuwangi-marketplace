@@ -99,6 +99,18 @@ const restoData = [
       tax: 1000
     },
     stock: 80
+  },
+  {
+    id: 509,
+    details: {
+      name: "Puding Roti Bakar",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 16000,
+      tax: 1600
+    },
+    stock: 42
   }
 ];
 
