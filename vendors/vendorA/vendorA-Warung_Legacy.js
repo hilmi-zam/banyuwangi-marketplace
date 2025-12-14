@@ -107,6 +107,12 @@ const vendorAData = [
     nm_brg: "Popcorn Gurih-manis",
     hrg: "11000",
     ket_stok: "habis"
+  },
+  {
+    kd_produk: "A017",
+    nm_brg: "Ketan Kirip",
+    hrg: "7000",
+    ket_stok: "ada"
   }
 ];
 module.exports = vendorAData;
