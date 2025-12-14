@@ -51,6 +51,18 @@ const restoData = [
       tax: 1200
     },
     stock: 55
+  },
+  {
+    id: 505,
+    details: {
+      name: "Gado-Gado Tradisional",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 18000,
+      tax: 1800
+    },
+    stock: 40
   }
 ];
 
