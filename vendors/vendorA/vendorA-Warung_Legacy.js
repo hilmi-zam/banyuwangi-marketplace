@@ -78,5 +78,23 @@ const vendorAData = [
     hrg: "12000",
     ket_stok: "ada"
   },
+    {
+    kd_produk: "A013",
+    nm_brg: "Wedang Uwuh",
+    hrg: "15000",
+    ket_stok: "ada"
+  },
+  {
+    kd_produk: "A014",
+    nm_brg: "Kue Cucur",
+    hrg: "11000",
+    ket_stok: "habis"
+  },
+  {
+    kd_produk: "A015",
+    nm_brg: "Sagon Kelapa",
+    hrg: "14000",
+    ket_stok: "ada"
+  }
 ];
 module.exports = vendorAData;
