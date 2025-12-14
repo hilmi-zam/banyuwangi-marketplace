@@ -119,6 +119,12 @@ const vendorAData = [
     nm_brg: "Ghtuk Lindry",
     hrg: "8000",
     ket_stok: "ada"
+  },
+  {
+    kd_produk: "A020",
+    nm_brg: "Lupis",
+    hrg: "5000",
+    ket_stok: "habis"
   }
 ];
 module.exports = vendorAData;
