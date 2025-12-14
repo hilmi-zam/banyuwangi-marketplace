@@ -95,6 +95,12 @@ const vendorAData = [
     nm_brg: "Sagon Kelapa",
     hrg: "14000",
     ket_stok: "ada"
+  },
+  {
+    kd_produk: "A016",
+    nm_brg: "Rengginang",
+    hrg: "11000",
+    ket_stok: "ada"
   }
 ];
 module.exports = vendorAData;
