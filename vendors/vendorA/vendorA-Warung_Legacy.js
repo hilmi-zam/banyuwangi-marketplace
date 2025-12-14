@@ -131,6 +131,12 @@ const vendorAData = [
     nm_brg: "Sego Cawuk",
     hrg: "18000",
     ket_stok: "ada"
+  },
+  {
+    kd_produk: "A022",
+    nm_brg: "Pecel Pitek",
+    hrg: "25000",
+    ket_stok: "habis"
   }
 ];
 module.exports = vendorAData;
