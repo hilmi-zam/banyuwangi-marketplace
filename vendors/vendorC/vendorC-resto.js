@@ -15,6 +15,18 @@ const restoData = [
       tax: 2000
     },
     stock: 50
+  },
+  {
+    id: 502,
+    details: {
+      name: "Soto Ayam Banyuwangi",
+      category: "Food"
+    },
+    pricing: {
+      base_price: 25000,
+      tax: 2500
+    },
+    stock: 45
   }
 ];
 
